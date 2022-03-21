@@ -419,9 +419,9 @@
                     <ab type="paragrafo" n="10" xml:id="Par10_P9">
                         <lb facs="#P9_R27"/>
                             Alors se produit le <abbr>phén</abbr><term ref="#phnm"><expan>phén<ex>omène </ex></expan></term>
-                            <del rend="overstrike">choi </del><!--scarabocchio:chiedi al prof--><del rend="overtyped">ch </del>
+                            <del rend="overstrike">choi </del><del rend="overtyped">ch </del>
                             <mentioned xml:lang="fr">pu<emph rend="underline">nir</emph>:pu
-                            <choice><sic></sic><corr>nirai=venir:venirai</corr></choice></mentioned><!--ricontrollare-->
+                            <choice><sic></sic><corr>nirai=venir:venirai</corr></choice></mentioned>
                     </ab>
                     <ab type="paragrafo" n="11" xml:id="Par11_P9">
                         <lb facs="#P9_R28"/>
